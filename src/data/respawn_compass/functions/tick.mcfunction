@@ -1,0 +1,1 @@
+execute as @a[scores={rc_respawnTime=1}] at @s run give @s minecraft:recovery_compass

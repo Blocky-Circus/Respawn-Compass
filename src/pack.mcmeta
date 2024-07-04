@@ -1,6 +1,15 @@
 {
     "pack": {
         "pack_format": 15,
-        "description": "A simple datapack to give players a recovery compass after respawning."
+        "description": [
+            {
+                "text": "Recovery Compass on Respawn",
+                "color": "blue"
+            },
+            {
+                "text": "\nBlocky Circus",
+                "color": "red"
+            }
+        ]
     }
 }

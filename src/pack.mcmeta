@@ -1,7 +1,6 @@
 {
-    "pack":
-    {
+    "pack": {
         "pack_format": 15,
-        "description": "Description"
+        "description": "A simple datapack to give players a recovery compass after respawning."
     }
 }
